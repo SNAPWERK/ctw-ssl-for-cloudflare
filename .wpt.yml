@@ -1,0 +1,22 @@
+type: plugin
+files:
+    src:
+        - '**'
+        - '!node_modules/**'
+        - '!vendor/**'
+        - '!tests/**'
+        - '!test/**'
+        - '!build/**'
+        - '!tmp/**'
+        - '!README.md'
+    main: plugin.php
+    assets:
+        - assets/*.png
+        - assets/*.svg
+gh:
+    repo: SNAPWERK/ctw-ssl-for-cloudflare
+    username: christoferw
+wporg:
+    slug: ctw-ssl-for-cloudflare
+    username: weslink
+    buildPath: build
