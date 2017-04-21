@@ -5,7 +5,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Donate link: https://cetewe.de
 Tags: CloudFlare, SSL, redirect loop, HTTPS, , Flexible SSL, Universal SSL, CTW, redirect, CTW SSL
 Requires at least: 1.0.4
-Tested up to: 1.0.5
+Tested up to: 4.7.4
 Stable tag: 1.0.4
 
 Plugin to enable CloudFlare Flexible SSL for Wordpress and to prevent the Redirect Loop
