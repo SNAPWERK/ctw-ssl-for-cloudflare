@@ -40,6 +40,10 @@ There are no extra steps needed for the installation just acticate this Plugin a
 
 == Changelog ==
 
+= 1.0.5 =
+
+Update for Wordpress 4.7.4
+
 = 1.0.4 =
 
 remove unused code
