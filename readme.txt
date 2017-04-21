@@ -2,7 +2,7 @@
 Contributors: cetewe
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
-Donate link: https://cetewe.de
+Donate link: https://weslink.de
 Tags: CloudFlare, SSL, redirect loop, HTTPS, , Flexible SSL, Universal SSL, CTW, redirect, CTW SSL
 Requires at least: 3.2.1
 Tested up to: 4.7.4
