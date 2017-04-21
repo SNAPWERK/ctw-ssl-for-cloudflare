@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: CTW SSL for Cloudflare
- * Plugin URI: https://cetewe.de/cloudflare-ssl-and-wordpress/
+ * Plugin Name: Cloudflare SSL by Weslink
+ * Plugin URI: https://weslink.de
  * Description: Adds Support of CloudFlare Flexibles SSL for WordPress
- * Version: 1.0.5
- * Text Domain: ctw-ssl-for-cloudflare
- * Author: CTW Consulting, Weslink, Snapwerk
+ * Version: 1.0.7
+ * Text Domain: wl-ssl-for-cloudflare
+ * Author: Weslink
  * Author URI: https://weslink.de
  */
 

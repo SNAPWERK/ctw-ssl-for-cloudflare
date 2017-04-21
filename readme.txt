@@ -1,12 +1,12 @@
-=== CTW SSL for Cloudflare ===
-Contributors: cetewe
+=== Cloudflare SSL by Weslink ===
+Contributors: weslink
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Donate link: https://weslink.de
 Tags: CloudFlare, SSL, redirect loop, HTTPS, , Flexible SSL, Universal SSL, CTW, redirect, CTW SSL
 Requires at least: 3.2.1
 Tested up to: 4.7.4
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 
 Plugin to enable CloudFlare Flexible SSL for Wordpress and to prevent the Redirect Loop
 
@@ -30,15 +30,17 @@ This Plugin is only needed for the Free SSL Version of Cloudflare: Flexible SSL
 This Plugin is only needed for the Free SSL Version of Cloudflare: Flexible SSL
 
 
-== Screenshots ==
-
-n/a
 
 == Installation ==
 
 There are no extra steps needed for the installation just acticate this Plugin and you are ready to go.
 
 == Changelog ==
+
+= 1.0.7 =
+
+Move plugin owner to Weslink. Weslink will take over this plugin and add more functions as manage pull request from the community.
+
 
 = 1.0.5 =
 
