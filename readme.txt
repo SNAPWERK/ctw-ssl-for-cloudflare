@@ -14,7 +14,7 @@ Plugin to enable CloudFlare Flexible SSL for Wordpress and to prevent the Redire
 
 CloudFlare Flexible SSL needs some tiny Modification to get not into a redirect loop. This Plugins makes your Wordpress Site ready to use Cloudflare SSL and prevents the common SSL infinite loop Problem.
 
-[Wordpress and SSL ](https://cetewe.de/cloudflare-ssl-and-wordpress/).
+[Wordpress and SSL ](https://weslink.de/blog/).
 
 == Frequently Asked Questions ==
 
