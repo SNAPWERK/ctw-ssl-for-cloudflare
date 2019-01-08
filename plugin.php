@@ -3,7 +3,7 @@
  * Plugin Name: Cloudflare SSL by Weslink
  * Plugin URI: https://weslink.de
  * Description: Adds Support of CloudFlare Flexibles SSL for WordPress
- * Version: 1.0.8
+ * Version: 1.0.9
  * Text Domain: wl-ssl-for-cloudflare
  * Author: Weslink
  * Author URI: https://weslink.de
@@ -14,7 +14,7 @@ class CTW_Cloudflare_SSL {
 	public function __construct() {}
 
 	public function ensureSSL() {
-		
+
 		// for cloudflare
 		if ( isset( $_SERVER[ 'HTTP_CF_VISITOR' ] ) && ( strpos( $_SERVER[ 'HTTP_CF_VISITOR' ], 'https' ) !== false ) ) {
 			$_SERVER[ 'HTTPS' ] = 'on';
@@ -22,9 +22,9 @@ class CTW_Cloudflare_SSL {
 
 		// for other...
 		if(isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https'){
-		    $_SERVER['HTTPS']='on'; 
-		}	
-		
+		    $_SERVER['HTTPS']='on';
+		}
+
 	}
 
 	/*
